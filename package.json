@@ -1,0 +1,11 @@
+{
+  "name": "foursea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "quangnt0107",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
